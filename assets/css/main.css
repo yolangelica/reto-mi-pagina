@@ -1,31 +1,27 @@
 /*header*/
-.container-nav li{
+.container-nav li{/*modifica nav lista*/
 	display: inline-block;
-	margin-left: 4em;
+	margin-left: 3em;
 	font-family: 'Montserrat', sans-serif;
-
 }
 
 
-.container-header{
+.container-header{/*contenedor header*/
 	border: 1px solid black;
 	background: black;
 	color:white;
 	font-family: 'Montserrat', sans-serif;
 }
-.container-header2{
-	display:none;
-}
-.bootstrap{
-	display: inline-block;
-}
-.icon-2{
+
+
+
+.icon-2{/*icono bar*/
 	display: none;
 	text-align: right;
 	color:white;
 
 }
-/*section img principal*/
+/*seccion imagen principal*/
 .img-principal{
 	background-image: url(../img/cheetah-pattern-1920x400.jpg);
 	width: 100%;
@@ -52,7 +48,6 @@
 }
 /*section we-what-do y Contact*/
 .container-what{/*contiene dos parrafos y boton*/
-	
     text-align: justify;
     margin-top: 2%;
     font-family: 'Montserrat', sans-serif;
@@ -73,13 +68,12 @@
 	padding-bottom: 8%;
 }
 
-/*section img animals*/
-
+/*section contenedores imagen animales*/
 
 .card-title h3, p{/*espacio entre texto y div*/
 	padding: 2%;
 }
-.content{
+.content{/*contenedores imagen y texto animales*/
 	border:1px solid black;
 	width: 302px;
 	font-family: 'Montserrat', sans-serif;
