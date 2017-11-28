@@ -1,0 +1,19 @@
+@media (max-width: 824px){
+	[class*="col-"]{
+		width: 100%;
+	}
+.container-nav{
+	display: none;
+	}
+.container-header2{
+	display: block;
+}
+.icon-2{
+	width: 50%;
+	
+	display: inline-block;
+}
+.cont-start{
+	width: 50%;
+}
+}

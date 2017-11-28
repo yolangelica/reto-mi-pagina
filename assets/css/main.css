@@ -1,0 +1,111 @@
+/*header*/
+.container-nav li{
+	display: inline-block;
+	margin-left: 4em;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.container-header{
+	border: 1px solid black;
+	background: black;
+	color:white;
+	font-family: 'Montserrat', sans-serif;
+}
+.container-header2{
+	display:none;
+}
+.bootstrap{
+	display: inline-block;
+}
+.icon-2{
+	display: none;
+	text-align: right;
+	color:white;
+
+}
+/*section img principal*/
+.img-principal{
+	background-image: url(../img/cheetah-pattern-1920x400.jpg);
+	width: 100%;
+	height: 25em;
+}
+/*texto img principal rawww..*/
+.img-principal h1{
+ 	color: white;
+ 	text-align: center;
+ 	margin-top:10%;
+ 	;
+ 	font-family: 'Indie Flower', cursive;
+ 	font-size: 500%;
+}
+
+.button1 button{
+	border:1px solid black;
+	border-radius: 6%;
+	background: black;
+	color:white;
+	padding: 3%;
+	margin-top: 5%;
+	box-shadow: 5px 5px 2px 0px rgba(0,0,0,0.75);
+}
+/*section we-what-do y Contact*/
+.container-what{/*contiene dos parrafos y boton*/
+	
+    text-align: justify;
+    margin-top: 2%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.container-contact{/*contenedor datos contacto*/
+    margin-top: 2%;
+    font-family: 'Montserrat', sans-serif;
+	
+}
+
+.container-contact h3{/*separa titulo contact de parrafos*/
+	padding-bottom: 2%;
+}
+
+.paragraph2{
+	padding-bottom: 8%;
+}
+
+/*section img animals*/
+
+
+.card-title h3, p{/*espacio entre texto y div*/
+	padding: 2%;
+}
+.content{
+	border:1px solid black;
+	width: 302px;
+	font-family: 'Montserrat', sans-serif;
+	margin:0;
+}
+
+.button-animals{
+	border: 1px solid black;
+	padding: 3%;
+}
+
+.button-animals button{
+	
+	border-radius: 6%;
+	background: black;
+	color:white;
+	padding: 3%;
+	margin-top: 5%;
+	box-shadow: 5px 5px 2px 0px rgba(0,0,0,0.75);
+}
+
+/*FOOTER*/
+.container-footer{
+	border: 1px solid black;
+	text-align: center;
+	background:black;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
